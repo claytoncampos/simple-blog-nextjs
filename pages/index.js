@@ -19,32 +19,33 @@ export async function getStaticProps() {
 
 export default function Home({ allPostsData }) {
   return (
+
     <Layout home>
       <Head>
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hello world, I'm Clayton</p>
-<   h3>Front-End Developer | Programador Jr 🤖</h3>
+        <h3>Front-End Developer | Programador Jr 🤖</h3>
 
-    <p>Estudando para se tornar Full Stack!</p>
+        <h5>Estudando para se tornar um Programador Full Stack!</h5>
 
-    <div>   
-        <p>💻 Trabalhando com Js, Html, Css e React</p>
-        <p>📚 Estudando Node, React, React Native, MongoDB, PostgreSQL</p>
-        <p>Apaixonado por programação e tecnologia, ajudando os outros dev's da melhor forma possível</p>
-        <p>Cursos Concluidos (Certificados)</p>
-        <p>Estação Hack Facebook - Front End Coding - 105 Hrs (Digital House)
-        Web Moderno 2020 - 87,5 Hrs (Udemy)
-        Bootcamp React Web Developer - 80 Hrs (DIO)
-        Bootcamp HTML Web Developer - 27 Hrs (DIO)
-        Scrum Foundation SFPC - (CertiProf)
-        Lógica de Programação 14Hrs (SENAI)</p>
-    </div>
-        <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
+        <div className={utilStyles.description}>   
+          💻 Trabalhando com Js, Html, Css e React<br/>
+          📚 Estudando Node, React, React Native, MongoDB, PostgreSQL<br/>
+          Apaixonado por programação e tecnologia, ajudando os outros dev's da melhor forma possível.<br/>
+          <h4>Cursos Concluidos (Certificados)</h4>
+          Estação Hack Facebook - Front End Coding - 105 Hrs (Digital House)<br/>
+          Web Moderno 2020 - 87,5 Hrs (Udemy)<br/>
+          Bootcamp React Web Developer - 80 Hrs (DIO)<br/>
+          Bootcamp HTML Web Developer - 27 Hrs (DIO)<br/>
+          Scrum Foundation SFPC - (CertiProf)<br/>
+          Lógica de Programação 14Hrs (SENAI)<br/>
+       </div>
+          <p>
+            (This is a sample website - you’ll be building a site like this on{' '}
+            <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          </p>
       </section>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>

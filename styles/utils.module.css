@@ -24,9 +24,12 @@
   font-size: 1.2rem;
   line-height: 1.5;
 }
+.headingMd h5 {
+  color: gray;
+}
 
 .borderCircle {
-  border-radius: 9999px;
+  border-radius: 50%;
 }
 
 .colorInherit {
@@ -49,4 +52,9 @@
 
 .lightText {
   color: #999;
+}
+
+.description {
+  font-size: 13px;
+  
 }
