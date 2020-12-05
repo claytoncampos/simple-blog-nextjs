@@ -6,7 +6,7 @@
 	 Simple Blog with NextJs 
 </h4>
 <p align="center">	
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/claytoncampos/NLW3.0-Happy">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/claytoncampos/simple-blog-nextjs">
 	
   <a href="https://www.linkedin.com/in/clayton-almeida-campos-198732176/">
     <img alt="Made by ClaytonCampos" src="https://img.shields.io/badge/made%20by-ClaytonCampos-%2304D361">
