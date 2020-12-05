@@ -1,15 +1,15 @@
 ---
-title: 'Duas formas de pré-renderização'
+title: 'Configurando EditorConfig'
 date: '2020-12-04'
 ---
 
-###Instalação
+### Instalação
 
 Ao identificar uma extensão, forneça o nome completo do formulário publisher.extension. Para esta extensão, é editorconfig.editorconfig.
 
 Consulte Extension Marketplace para obter mais informações sobre as várias maneiras de instalar extensões VSCode.
 
-#####Propriedades Suportadas
+##### Propriedades Suportadas
 
 - indent_style
 - indent_size
@@ -22,7 +22,7 @@ On the backlog
 
     charset
 
-####Como funciona
+#### Como funciona
 
 Esta extensão é ativada sempre que você abre um novo editor de texto, alterna as abas para uma existente ou focaliza o editor que você já abriu. Quando ativado, ele usa editorconfig para resolver a configuração desse arquivo específico e aplica quaisquer configurações relevantes do editor.
 
