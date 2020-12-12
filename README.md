@@ -1,8 +1,4 @@
-<h1 align="center" width="250px>
-    NextLevelWeek 3.0
-</h1>
-
-<h4 align="center"> 
+<h4 align="center" width="250px> 
 	 Simple Blog with NextJs 
 </h4>
 <p align="center">	
@@ -21,13 +17,15 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/claytoncampos/simple-blog-nextjs?style=social">
   </a>
 
-
 ---
+
 [Acesse o Blog](http://simple-blog-nextjs.claytoncampos.vercel.app/)
 
 <small>Simple Blog created for NextJs studies
 This is a starter template for [Learn Next.js](https://nextjs.org/learn)</small>
 
-___
+---
+
 ##### preview
+
 <img align="center" alt="home" src="./background/captura.png" width="500">
