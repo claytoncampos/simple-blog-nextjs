@@ -21,7 +21,7 @@
 
 [Acesse o Blog](http://simple-blog-nextjs.claytoncampos.vercel.app/)
 
-<small>Simple Blog created for NextJs studies
+<small>Blog created for NextJs studies
 This is a starter template for [Learn Next.js](https://nextjs.org/learn)</small>
 
 ---
