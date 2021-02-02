@@ -1,5 +1,5 @@
 <h4 align="center" width="250px> 
-	 Simple Blog with NextJs 
+	 Blog with Next.Js 
 </h4>
 <p align="center">	
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/claytoncampos/simple-blog-nextjs">
