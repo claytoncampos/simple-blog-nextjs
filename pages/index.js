@@ -30,15 +30,20 @@ export default function Home({ allPostsData }) {
 
         <h5>Estudando para se tornar um Programador Full Stack!</h5>
 
+
         <div className={utilStyles.description}>   
           💻 Trabalhando com Js, Html, Css e React<br/>
           📚 Estudando Node, React, React Native, MongoDB, PostgreSQL<br/>
           Apaixonado por programação e tecnologia, ajudando os outros dev's da melhor forma possível.<br/>
           <h4>Cursos Concluidos (Certificados)</h4>
+					User Experience – 60hrs (FIAP)</br>
           Estação Hack Facebook - Front End Coding - 105 Hrs (Digital House)<br/>
           Web Moderno 2020 - 87,5 Hrs (Udemy)<br/>
+					Bootcamp SPTech Desenvolvimento Front-end 82Hrs (DIO)</br>
           Bootcamp React Web Developer - 80 Hrs (DIO)<br/>
           Bootcamp HTML Web Developer - 27 Hrs (DIO)<br/>
+					Bootcamp Avanade Decola Dev 2021 - 85 Hrs (DIO)</br>
+    			Bootcamp GFT START_UNI 2021 - 46 Hrs (DIO)</br>	
           Scrum Foundation SFPC - (CertiProf)<br/>
           Lógica de Programação 14Hrs (SENAI)<br/>
        </div>
