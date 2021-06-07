@@ -94,17 +94,4 @@ export default function Home({ allPostsData }) {
 		</Layout>
 	)
 }
-<br />
-
-- 
-- User Experience – 60hrs (FIAP)
-- Estação Hack Facebook - Front End Coding - 105 Hrs (Digital House)
-- Web Moderno 2020 - 87,5 Hrs (Udemy)
-- Web Developer 120 Hrs (DIO)
-- Bootcamp React Web Developer - 80 Hrs (DIO)
-- Bootcamp HTML Web Developer - 27 Hrs (DIO)
-- Bootcamp Avanade Decola Dev 2021 - 85 Hrs (DIO)
-- Bootcamp GFT START_UNI 2021 - 46 Hrs (DIO)
-- Bootcamp SPTech Desenvolvimento Front-end 82Hrs (DIO)
-- Scrum Foundation SFPC - (CertiProf) 
-- Lógica de Programação 14Hrs (SENAI)
+;<br />
